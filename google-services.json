@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "278460581191",
+    "project_id": "notiapp-edabf",
+    "storage_bucket": "notiapp-edabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278460581191:android:d36d4937ac34d00e88f862",
+        "android_client_info": {
+          "package_name": "com.nimax.AwesomeProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278460581191-h71s2t0ph57070spdla0kh8j69ogmokn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nimax.AwesomeProject",
+            "certificate_hash": "0371d1b7f89212456792c782411157069cfebcd8"
+          }
+        },
+        {
+          "client_id": "278460581191-s6os6gshvi0b8gsjv9unlt83clgl70ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nimax.AwesomeProject",
+            "certificate_hash": "7d93403295145be34d1a4ea628476c21833ab191"
+          }
+        },
+        {
+          "client_id": "278460581191-0879hhedqje6ckdjk6t72hshbvnsftk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZvHlJtqDO1hIytVaiQ7x1p7QQliTnlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278460581191-0879hhedqje6ckdjk6t72hshbvnsftk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
